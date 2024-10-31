@@ -1,0 +1,19 @@
+Time : 22:34:14
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'encaissement' in 'field list'
+Raw SQL : INSERT INTO `facture`(`agent`, `client`, `plaque`, `horodateur`, `prix`, `intervention`, `encaissement`) VALUES (:agent, :client, :plaque, :horo, :prix, :inter, :encaissement)
+
+Time : 22:30:53
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.interventionsourriere' doesn't exist
+Raw SQL : Select * FROM interventionsourriere
+
+Time : 22:30:27
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.interventionsourriere' doesn't exist
+Raw SQL : Select * FROM interventionsourriere
+
+Time : 22:30:26
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.interventionsourriere' doesn't exist
+Raw SQL : Select * FROM interventionsourriere
+
+Time : 22:30:24
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.interventionsourriere' doesn't exist
+Raw SQL : Select * FROM interventionsourriere

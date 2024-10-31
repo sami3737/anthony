@@ -1,0 +1,4 @@
+Time : 15:28:36
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'clothing' cannot be null
+Raw SQL : INSERT INTO `accounts`(`steamid`, `name`, `clothing`, `inventory`, `position`, `death_pos`, `drug_knowledge`, `grade`) VALUES 
+					(:steamid, :name, NULL, NULL, NULL, NULL, NULL, NULL)

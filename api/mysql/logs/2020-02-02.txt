@@ -1,0 +1,50 @@
+Time : 16:30:15
+SQLSTATE[42S22]: Column not found: 1054 Champ 'prenom' inconnu dans field list
+Raw SQL : SELECT (`money` + `bankbalance`) as money, concat(`prenom`, ' ', `nom`) as who FROM `users` order by money desc limit 0,1
+
+Time : 16:29:06
+SQLSTATE[42S22]: Column not found: 1054 Champ 'bankbalance' inconnu dans field list
+Raw SQL : SELECT (`money` + `bankbalance`) as money, concat(`prenom`, ' ', `nom`) as who FROM `users` order by money desc limit 0,1
+
+Time : 16:29:03
+SQLSTATE[42S22]: Column not found: 1054 Champ 'bankbalance' inconnu dans field list
+Raw SQL : SELECT (`money` + `bankbalance`) as money, concat(`prenom`, ' ', `nom`) as who FROM `users` order by money desc limit 0,1
+
+Time : 16:29:01
+SQLSTATE[42S22]: Column not found: 1054 Champ 's.job_id' inconnu dans where clause
+Raw SQL : Select t.*, s.job_name FROM users t, jobs s WHERE identifier = :user && t.job = s.job_id
+
+Time : 16:28:59
+SQLSTATE[42S22]: Column not found: 1054 Champ 's.job_id' inconnu dans where clause
+Raw SQL : Select t.*, s.job_name FROM users t, jobs s WHERE identifier = :user && t.job = s.job_id
+
+Time : 16:28:58
+SQLSTATE[42S22]: Column not found: 1054 Champ 's.job_id' inconnu dans where clause
+Raw SQL : Select t.*, s.job_name FROM users t, jobs s WHERE identifier = :user && t.job = s.job_id
+
+Time : 16:28:54
+SQLSTATE[42S22]: Column not found: 1054 Champ 's.job_id' inconnu dans where clause
+Raw SQL : Select t.*, s.job_name FROM users t, jobs s WHERE identifier = :user && t.job = s.job_id
+
+Time : 15:10:44
+SQLSTATE[42S22]: Column not found: 1054 Champ 's.job_id' inconnu dans where clause
+Raw SQL : Select t.*, s.job_name FROM users t, jobs s WHERE identifier = :user && t.job = s.job_id
+
+Time : 15:09:51
+SQLSTATE[42S22]: Column not found: 1054 Champ 's.label' inconnu dans field list
+Raw SQL : Select t.*, s.label FROM users t, jobs s WHERE identifier = :user && t.job = s.name
+
+Time : 15:08:18
+SQLSTATE[42S22]: Column not found: 1054 Champ 's.name' inconnu dans where clause
+Raw SQL : Select t.*, s.label FROM users t, jobs s WHERE identifier = :user && t.job = s.name
+
+Time : 15:07:20
+SQLSTATE[42S22]: Column not found: 1054 Champ 's.job_name' inconnu dans field list
+Raw SQL : Select t.*, s.job_name FROM users t, jobs s WHERE identifier = :user && t.job = s.job_id
+
+Time : 14:42:16
+SQLSTATE[42S22]: Column not found: 1054 Champ 'bankbalance' inconnu dans field list
+Raw SQL : SELECT (`money` + `bankbalance`) as money, concat(`prenom`, ' ', `nom`) as who FROM `users` order by money desc limit 0,1
+
+Time : 14:40:56
+SQLSTATE[HY000] [1049] Base 'gta' inconnue

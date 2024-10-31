@@ -1,0 +1,12 @@
+Time : 18:59:43
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'gta.accounts' doesn't exist
+Raw SQL : Select * FROM accounts WHERE steamid = :user
+
+Time : 18:57:50
+SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+
+Time : 17:04:04
+SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+
+Time : 17:03:51
+SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 

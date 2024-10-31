@@ -1,0 +1,27 @@
+Time : 16:37:10
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'money' in 'field list'
+Raw SQL : SELECT (`money` + `bank_balance`) as money, name as who FROM `accounts` order by money desc limit 0,1
+
+Time : 16:35:20
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.whitelist' doesn't exist
+Raw SQL : select * from whitelist
+
+Time : 16:35:19
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.whitelist' doesn't exist
+Raw SQL : select * from whitelist
+
+Time : 16:35:19
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.whitelist' doesn't exist
+Raw SQL : select * from whitelist
+
+Time : 16:35:19
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.whitelist' doesn't exist
+Raw SQL : select * from whitelist
+
+Time : 16:35:16
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.whitelist' doesn't exist
+Raw SQL : select * from whitelist
+
+Time : 16:33:36
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.users' doesn't exist
+Raw SQL : Select * FROM users WHERE identifier = :user

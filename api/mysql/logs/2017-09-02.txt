@@ -1,0 +1,11 @@
+Time : 15:28:51
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'steam:110000114807bcc' for column 'embaucher' at row 1
+Raw SQL : INSERT into proposition_job (`embaucher`, `job`, `patron`) values (:embaucher, :job, :patron)
+
+Time : 15:28:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''embaucher', 'job', 'patron') values (?, ?, ?)' at line 1
+Raw SQL : INSERT into proposition_job ('embaucher', 'job', 'patron') values (:embaucher, :job, :patron)
+
+Time : 14:02:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'job_id != 0 and job_id < 100' at line 1
+Raw SQL : Select * FROM jobs where job_id != 1 job_id != 0 and job_id < 100

@@ -1,0 +1,8 @@
+Time : 16:58:19
+SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+
+Time : 16:57:47
+SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+
+Time : 16:57:35
+SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 

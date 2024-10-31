@@ -1,0 +1,127 @@
+Time : 18:11:23
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.users' doesn't exist
+Raw SQL : Select t.* FROM users t WHERE steamid = :user
+
+Time : 18:11:05
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.users' doesn't exist
+Raw SQL : Select t.* FROM users t WHERE steamid = :user
+
+Time : 18:08:55
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.users' doesn't exist
+Raw SQL : Select t.*, s.job_name FROM users t, jobs s WHERE identifier = :user && t.job = s.job_id
+
+Time : 17:40:00
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.users' doesn't exist
+Raw SQL : Select t.*, s.job_name FROM users t, jobs s WHERE identifier = :user && t.patron = s.job_id
+
+Time : 17:39:46
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.users' doesn't exist
+Raw SQL : Select t.*, s.job_name FROM users t, jobs s WHERE identifier = :user && t.job = s.job_id
+
+Time : 17:39:38
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.users' doesn't exist
+Raw SQL : Select t.*, s.job_name FROM users t, jobs s WHERE identifier = :user && t.job = s.job_id
+
+Time : 17:39:29
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.users' doesn't exist
+Raw SQL : Select * FROM users WHERE identifier = :user
+
+Time : 17:18:57
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:18:56
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:18:55
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:18:32
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:17:55
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:17:53
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:17:14
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:16:26
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:14:01
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:13:46
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:12:58
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:10:34
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:04:11
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:02:39
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 17:02:23
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 16:55:03
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 16:53:57
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 16:46:52
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.job FROM accounts t, job s WHERE identifier = :user && t.job = s.names
+
+Time : 16:46:35
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.job' in 'field list'
+Raw SQL : Select t.*, s.job FROM accounts t
+
+Time : 16:46:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.label' in 'field list'
+Raw SQL : Select t.*, s.label FROM accounts t
+
+Time : 16:43:59
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.label FROM accounts t, job s WHERE identifier = :user && t.job = s.name
+
+Time : 16:43:51
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.label FROM accounts t, job s WHERE identifier = :user && t.job = s.name
+
+Time : 16:43:47
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.label FROM accounts t, job s WHERE identifier = :user && t.job = s.name
+
+Time : 16:43:35
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.label FROM accounts t, job s WHERE identifier = :user && t.job = s.name
+
+Time : 14:04:23
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pcisoalmpsoalm.job' doesn't exist
+Raw SQL : Select t.*, s.label FROM accounts t, job s WHERE identifier = :user && t.job = s.name

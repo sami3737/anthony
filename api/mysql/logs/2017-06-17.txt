@@ -1,0 +1,9 @@
+Time : 15:11:02
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'gta5_gamemode_essential.punish' doesn't exist
+Raw SQL : INSERT INTO `punish`(`Horodateur`, `Nom du suspect`, `Infraction`, `Montant a payer`, `Lieux`, `Signature`, `Détails`, `Autres agent`) 
+		 VALUES (:Horodateur, :suspect, :Infraction, :montant, :lieux, :signature, :details, :autre)
+
+Time : 15:10:35
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'gta5_gamemode_essential.punish' doesn't exist
+Raw SQL : INSERT INTO `punish`(`Horodateur`, `Nom du suspect`, `Infraction`, `Montant a payer`, `Lieux`, `Signature`, `Détails`, `Autres agent`) 
+		 VALUES (:Horodateur, :suspect, :Infraction, :montant, :lieux, :signature, :details, :autre)
