@@ -1,7 +1,0 @@
-Time : 13:48:22
-SQLSTATE[42S02]: Base table or view not found: 1146 Table 'gta.itemprice' doesn't exist
-Raw SQL : Select * FROM ItemPrice WHERE Category = :Category AND IsSold = 1
-
-Time : 13:48:17
-SQLSTATE[42S02]: Base table or view not found: 1146 Table 'gta.itemprice' doesn't exist
-Raw SQL : Select * FROM ItemPrice WHERE Category = :Category AND IsSold = 1

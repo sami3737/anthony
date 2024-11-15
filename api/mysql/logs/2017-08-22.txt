@@ -1,3 +1,0 @@
-Time : 18:45:12
-SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.job_name' in 'field list'
-Raw SQL : Select t.*, s.job_name FROM users t, user_appartement s WHERE t.identifier = :user && t.identifier = s.identifier

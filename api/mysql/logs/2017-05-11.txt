@@ -1,7 +1,0 @@
-Time : 19:52:39
-SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rust.user' doesn't exist
-Raw SQL : Select * FROM user WHERE User = :user
-
-Time : 19:44:23
-SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rust.user' doesn't exist
-Raw SQL : Select * FROM user WHERE User = :user

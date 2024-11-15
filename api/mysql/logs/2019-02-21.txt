@@ -1,3 +1,0 @@
-Time : 00:03:14
-SQLSTATE[42S02]: Base table or view not found: 1146 Table 'gta.users' doesn't exist
-Raw SQL : Select t.*, s.job_name FROM users t, jobs s WHERE identifier = :user && t.job = s.job_id
