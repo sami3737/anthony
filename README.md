@@ -50,11 +50,11 @@ Ce site utilise les api suivantes:
 
 ## Outils
 
-  *notepad++
+  -notepad++
 
 ## Auteurs
 * **Samuel Boutin** _alias_ [@sami3737](https://github.com/sami3737)
 
 ## Licence
 
-Ce projet est sous licence ``MIT License`` - voir le fichier [LICENSE](LICENCE.md) pour plus d'informations
+Ce projet est sous licence ``MIT License`` - voir le fichier [LICENSE](LICENSE.md) pour plus d'informations
