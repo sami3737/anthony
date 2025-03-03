@@ -2,7 +2,7 @@
 
 ## À propos
 
-Ce a été créé en 2017 puis refais en 2020.
+Ce site a été créé en 2017 puis refais en 2020.
 
 Celui-ci est un site vitrine qui permet aux administrateurs de serveur [FiveM](https://fivem.net/) de gérer les métiers de chaque joueurs.
 
